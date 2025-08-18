@@ -5,4 +5,4 @@ This webssite will contains things by numpy,panda , matplotlib  and later will b
 
 
 Additionally it will be a strategic website
-Need to upgrade it in  a better vesrion
+Need to upgrade it in  a better version
